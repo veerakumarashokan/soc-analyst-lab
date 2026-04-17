@@ -16,6 +16,7 @@ To establish a structured and scalable lab environment for practical learning, e
 
 ## Storage Structure
 
+```text
 CyberLab/
 ├── ISOs/
 │   ├── Kali/
@@ -36,7 +37,7 @@ CyberLab/
 │   └── Networking/
 │
 └── Backups/
-
+```
 ---
 
 ## Operating Systems
