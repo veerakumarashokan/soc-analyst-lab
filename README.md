@@ -4,6 +4,15 @@ This repository documents my hands-on journey to becoming a SOC (Security Operat
 
 ---
 
+## Scope
+
+This lab focuses on SOC Tier 1 activities including:
+
+- Log monitoring and analysis  
+- Alert investigation  
+- Basic incident response  
+- Understanding attacker behavior through lab simulations  
+
 ## Lab Components
 
 - SOC Lab Setup (Virtual Machines and Networking)
