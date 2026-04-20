@@ -1,13 +1,34 @@
-# SOC Lab
+# SOC
 
-This section focuses on building and configuring a Security Operations Center (SOC) lab environment.
+This section focuses on core SOC activities including monitoring, detection, and analysis.
 
-## Scope
+## Purpose
 
-- Setting up virtual machines
-- Configuring network environment
-- Preparing systems for monitoring and analysis
+- Understand SOC workflows  
+- Analyze security alerts  
+- Perform threat detection  
+
+---
+
+## Sections
+
+### lab-setup/
+Setup for SOC tools and environments
+
+### monitoring/
+Log monitoring and alert handling
+
+---
+
+## Approach
+
+Focus on:
+- real-world scenarios  
+- practical analysis  
+- continuous improvement  
+
+---
 
 ## Goal
 
-To simulate a real SOC environment for hands-on cybersecurity practice.
+Develop skills required for a SOC analyst role.
