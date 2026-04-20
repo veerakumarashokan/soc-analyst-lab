@@ -15,19 +15,19 @@ This repository documents my hands-on learning and practical experience in Secur
 
 ## Structure
 
-### journal/
+### journal
 Daily logs of learning, lab activities, and progress.
 
-### notes/
+### notes
 Structured notes covering SOC concepts, tools, and techniques.
 
-### projects/
+### projects
 Hands-on labs and real-world simulation scenarios.
 
-### soc/
+### soc
 Core SOC activities including monitoring, detection, and analysis.
 
-### malware-analysis/
+### malware-analysis
 Analysis of malicious files, behavior, and indicators of compromise (IOCs).
 
 ---
