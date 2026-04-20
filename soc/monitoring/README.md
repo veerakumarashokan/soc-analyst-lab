@@ -1,13 +1,24 @@
 # Monitoring
 
-This section focuses on monitoring systems, logs, and security events within the SOC lab.
+This section focuses on log monitoring and alert analysis.
 
-## Includes
+## Purpose
 
-- Log collection and analysis  
-- System monitoring  
-- Basic detection concepts  
+- Understand log data  
+- Detect suspicious activity  
+- Analyze alerts  
+
+---
+
+## Approach
+
+Focus on:
+- identifying patterns  
+- analyzing anomalies  
+- understanding attacker behavior  
+
+---
 
 ## Goal
 
-To understand how security events are monitored and analyzed in a SOC environment.
+Improve detection and alert analysis skills.
