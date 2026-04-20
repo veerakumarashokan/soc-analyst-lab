@@ -12,10 +12,10 @@ This section focuses on core SOC activities including monitoring, detection, and
 
 ## Sections
 
-### lab-setup/
+### lab-setup
 Setup for SOC tools and environments
 
-### monitoring/
+### monitoring
 Log monitoring and alert handling
 
 ---
