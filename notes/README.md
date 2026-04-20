@@ -1,13 +1,31 @@
 # Notes
 
-This section contains general cybersecurity notes and concepts.
+This section contains structured notes related to SOC analysis and cybersecurity concepts.
 
-## Includes
+## Purpose
 
-- Basic cybersecurity concepts  
-- SOC-related topics  
-- Learning references  
+- Build conceptual understanding  
+- Support practical analysis  
+- Maintain organized knowledge  
+
+---
+
+## Sections
+
+### lab-setup/
+Environment setup for SOC labs and tools
+
+---
+
+## Approach
+
+Notes are:
+- concise  
+- practical  
+- focused on real-world relevance  
+
+---
 
 ## Goal
 
-To build a strong theoretical foundation alongside practical skills.
+Use notes as a reference during investigations and lab work.
