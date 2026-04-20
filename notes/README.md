@@ -12,7 +12,7 @@ This section contains structured notes related to SOC analysis and cybersecurity
 
 ## Sections
 
-### lab-setup/
+### lab-setup
 Environment setup for SOC labs and tools
 
 ---
